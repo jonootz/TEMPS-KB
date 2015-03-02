@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Welcome"
+    Link="/Content/Welcome.htm" />
+  <TocEntry
+    Title="How to Change the Logo in the Skin"
+    Link="/Content/Sample Topics/ChangeLogoInSkin.htm" />
+  <TocEntry
+    Title="Editing the Master Page"
+    Link="/Content/Sample Topics/EditingMasterPage.htm" />
+  <TocEntry
+    Title="Product A">
+    <TocEntry
+      Title="[%=MyVariables.ProductA%] Article 1"
+      Link="/Content/Products/Product A/Article1.htm" />
+    <TocEntry
+      Title="[%=MyVariables.ProductA%] Article 2"
+      Link="/Content/Products/Product A/Article2.htm" />
+    <TocEntry
+      Title="[%=MyVariables.ProductA%] Article 3"
+      Link="/Content/Products/Product A/Article3.htm" />
+  </TocEntry>
+</CatapultToc>
